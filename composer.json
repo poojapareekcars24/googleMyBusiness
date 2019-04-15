@@ -1,0 +1,23 @@
+{
+  "name": "cars24/googlemybusiness",
+  "type": "library",
+  "description": "Google My Business",
+  "keywords": [
+    "google my business"
+  ],
+  "homepage": "https://github.com/cars24/googlemybusiness",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Google"
+    }
+  ],
+  "require": {
+    "google/apiclient": ">=2.0"
+  },
+  "autoload": {
+    "files": [
+      "GoogleMyBusiness.php"
+    ]
+  }
+}
