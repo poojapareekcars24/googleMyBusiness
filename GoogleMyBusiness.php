@@ -30,8 +30,9 @@
  *
  * @author Google, Inc.
  */
+namespace cars24\googlemybusiness;
 
-class Google_Service_MyBusiness extends Google_Service
+class Cars24_GoogleMyBusiness extends \Google_Service
 {
 
 
